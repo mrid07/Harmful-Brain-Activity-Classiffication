@@ -1,4 +1,4 @@
-Harmful Brain Activity Classification Using Machine Learning
+#Harmful Brain Activity Classification Using Machine Learning
 Project Overview
 This project focuses on the automated classification of harmful brain activity patterns using EEG signals and machine learning models. The goal is to assist in neurocritical care by speeding up the diagnosis of conditions like seizures, GPD, and other abnormal patterns, which traditionally rely on manual and time-intensive interpretation of EEG data.
 
